@@ -1,18 +1,13 @@
 # Assignment: One HTML and CSS
 
-For this assignment, you will clone Dr. John Monberg's wra410 repository.
+For this assignment, I have cloned Dr. John Monberg's wra410 repository.
 
-You will update your README.md file so that I can learn about the changes you made.
-
-If I can't find your changes, I can't give you credit for them
-
-Revise the following section in your README.md file with a short description of what you've accomplished.
 
 ## Required Changes to WRA 410
 
 1. Make changes to the background color of a page and a div.
 
-2. Use a new font.
+2. Font change: I changed the font to Roboto (a different Google font) that is a widely used font in the UI/UX field on different websites. This font features friendly, open curves that create a more natural reading rhythym. Feedback from classmates and roommates helped determine that this was a font that multiple users would enjoy reading.
 
 3. Include two images.
 
