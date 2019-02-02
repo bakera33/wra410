@@ -1,4 +1,4 @@
-# Assignment: One HTML and CSS
+# Assignment One: HTML and CSS
 
 For this assignment, I have cloned Dr. John Monberg's wra410 repository, and have made the following changes using HTML and CSS.
 
