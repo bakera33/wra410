@@ -1,82 +1,127 @@
 body {
-    background-color: #EEE;
-    font-family: 'Roboto';
+  background-color: #EEE;
+  font-family: 'Montserrat';
 }
 
 a {
-  text-decoration: none;
-  color: #B23333;
+text-decoration: none;
+color: #18453B;
 }
 
+A:hover{
+  font-weight: bold;
+}
+
+
 h1, h2, h3  {
-  margin: 0;
-  padding: 10px;
+margin: 0;
+padding-top: 10px;
 }
 
 #container {
-    background-color: white;
-    width: 1000px;
-    margin-left: auto;
-    margin-right:auto;
+  background-color: white;
+  width: 1000px;
+  margin-left: auto;
+  margin-right:auto;
 }
 
 #header {
-    background-color: #18453B;
-    color: white;
-    text-align: center;
-    padding: 10px;
-}
-
-#content {
+  background-color: #18453B;
+  color: white;
+  text-align: center;
   padding: 10px;
 }
 
+#content {
+padding: 10px;
+}
+
 #nav {
-  width: 150px;
-  float: left;
-  padding: 20px;
+width: 150px;
+float: left;
+padding: 20px;
+margin-left: 35px;
 }
 
 #nav ul {
-  list-style-type: none;
-  padding: 0;
+list-style-type: none;
+padding: 0;
+line-height: 35px;
 }
 
 
 #nav .selected {
-  font-weight: bold;
+font-weight: bold;
 }
 
 #main {
-  width: 750px;
-  float: right;
+width: 750px;
+float: right;
 
 }
 
 #student-group {
-  clear: both;
-  margin: 20px;
-  border: 20px;
-  padding: 10px;
-  background-color:  #d3d3d3;
-  color: black;
-  text-align: left;
+clear: both;
+margin: 20px;
+border: 20px;
+padding: 10px;
+background-color:  #DCDCDC;
+color: #18453B;
+text-align: left;
 }
 
 #footer {
-  clear: both;
-  padding: 10px;
-  background-color: #97a2a2;
-  color: white;
-  text-align: right;
+clear: both;
+padding: 10px;
+background-color: #97a2a2;
+color: white;
+text-align: right;
 }
 .schedule-date {
-  font-weight: bold;
-  color: black;
-  text-align: right;
+font-weight: bold;
+color: black;
+text-align: right;
 }
 .schedule-resources {
-  font-weight: lighter;
-  color: black;
+font-weight: lighter;
+color: black;
+text-align: left;
+}
+
+caption{
+  font-size: 20px;
+  text-align: center;
+  margin-bottom: 15px;
+  font-weight: bold;
+}
+
+table{
+  width: 400px;
+  margin-top: 30px;
+  margin-bottom: 40px;
+}
+
+th{
   text-align: left;
+}
+
+table, th, td{
+  border: 1px solid #000;
+  border-collapse: collapse;
+}
+
+th, td{
+  padding: 5px;
+}
+
+.image{
+  height: 200px;
+  width: 200px;
+  float: right;
+  margin-right: 300px;
+  padding-bottom: 50px;
+}
+
+img{
+  height: 200px;
 }
