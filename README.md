@@ -19,6 +19,8 @@ For this assignment, I have cloned Dr. John Monberg's wra410 repository, and hav
 
 7. Since nothing on the schedule page was really separated, I included a border around each box for the grid, which separates rows horizontally and vertically. I kept the colors of the origional columns because I just found the color scheme attractive but I altered the width of each column to get a more asthetically pleasing feel that makes the schedule look organized. Adding a border radius for each box gives it a look that I found sort of cool and helped separate the content even more, which was a main issue with the original. Finally, I moved the WRA 410 Schedule title over to the left which gave the schedule a professional look, and reduced the font size of the original that was too much 'in your face'.
 
+8. For a feature that wasn't included in the original site, I added a hover effect for most of the links on the site, that make the font bold to increase awareness that you are hovering over a link. 
+
 
 ## Grading Criteria
 
